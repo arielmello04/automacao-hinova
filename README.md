@@ -28,7 +28,3 @@ Aqui estão alguns exemplos de como a automação pode ser usada:
 ### Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir **Issues** ou enviar um **Pull Request**.
-
-### Licença
-
-Este projeto está sob a licença [MIT](LICENSE).
